@@ -1,4 +1,4 @@
-# ⚖ FXRiskMonitor: LLM-Based Evaluation of Currency Exchange Transactions
+#  FXRiskMonitor: LLM-Based Evaluation of Currency Exchange Transactions
 
 This project showcases how a multilingual transformer-based language model (LLM) can be fine-tuned to classify **currency exchange transactions** (e.g., AMD–USD, RUB–EUR) as either **normal ("ok")** or **potentially suspicious ("red flag")**, based on structured JSON input.
 
@@ -6,7 +6,7 @@ The model processes real-like, **bilingual synthetic data** (Armenian-English) t
 
 ---
 
-## 🏛 Context
+##  Context
 
 Developed as part of an initiative at the **Central Bank of Armenia**, this tool aims to assist with **automated FX transaction monitoring** by identifying transactions that deviate from typical behavior — such as suspicious amounts, unusual countries, abnormal rates, or wash trading patterns.
 
