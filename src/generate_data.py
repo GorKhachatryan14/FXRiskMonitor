@@ -1,1 +1,0 @@
-# Placeholder for synthetic data generation script
